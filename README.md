@@ -199,6 +199,9 @@ Both tools excel in **different domains**:
 1. OpenAI (2023). *GPT-4 Technical Overview*.  
 2. Vaswani, A. et al. (2017). *Attention Is All You Need*.  
 3. Perplexity.ai Official Documentation.  
-4. Goodfellow, I. et al. (2014). *Generative Adversarial Nets*.  
+4. Goodfellow, I. et al. (2014). *Generative Adversarial Nets*.
+
 
 ---
+# Result:
+Thus,the result to obtain comprehensive report on the fundamentals of generative AI and Large Language Models (LLMs) has been successfully executed.
